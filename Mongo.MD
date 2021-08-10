@@ -27,5 +27,6 @@ to access the contents of the collection, you would do this
 
 if you want to see how many items are in your specific data collection
 
-`count_data = document_data.count_documents({})`
 **We dont add anything inside the bracket, to get everything in the database**
+
+`count_data = document_data.count_documents({})`
