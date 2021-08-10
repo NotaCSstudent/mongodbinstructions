@@ -6,7 +6,7 @@
 
 
 # Authentication 
- ## You will get the URI from the mongodb website and press connect on your database , and get the link from the website.
+ ### You will get the URI from the mongodb website and press connect on your database , and get the link from the website.
 ```
 import pymongo
 
